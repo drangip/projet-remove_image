@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+missingno
+seaborn
+numpy
+requests
